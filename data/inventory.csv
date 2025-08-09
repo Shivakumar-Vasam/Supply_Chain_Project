@@ -1,0 +1,601 @@
+product_id,product_name,date,inventory_level,category,price,restock
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-03,157,men's clothing,109.95,1
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-04,155,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-05,152,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-06,148,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-07,147,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-08,143,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-09,141,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-10,190,men's clothing,109.95,1
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-11,186,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-12,186,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-13,185,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-14,181,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-15,177,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-16,175,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-17,262,men's clothing,109.95,1
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-18,261,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-19,259,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-20,255,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-21,254,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-22,250,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-23,246,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-24,315,men's clothing,109.95,1
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-25,315,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-26,314,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-27,314,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-28,313,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-29,313,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-30,309,men's clothing,109.95,0
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-07-31,360,men's clothing,109.95,1
+1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",2025-08-01,357,men's clothing,109.95,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-03,136,men's clothing,22.3,1
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-04,131,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-05,124,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-06,123,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-07,120,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-08,110,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-09,109,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-10,168,men's clothing,22.3,1
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-11,162,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-12,162,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-13,153,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-14,148,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-15,148,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-16,145,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-17,204,men's clothing,22.3,1
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-18,202,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-19,194,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-20,191,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-21,183,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-22,179,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-23,177,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-24,257,men's clothing,22.3,1
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-25,254,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-26,252,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-27,250,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-28,243,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-29,238,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-30,228,men's clothing,22.3,0
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-07-31,274,men's clothing,22.3,1
+2,Mens Casual Premium Slim Fit T-Shirts ,2025-08-01,270,men's clothing,22.3,0
+3,Mens Cotton Jacket,2025-07-03,240,men's clothing,55.99,1
+3,Mens Cotton Jacket,2025-07-04,237,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-05,235,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-06,235,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-07,233,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-08,231,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-09,231,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-10,322,men's clothing,55.99,1
+3,Mens Cotton Jacket,2025-07-11,322,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-12,318,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-13,317,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-14,316,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-15,314,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-16,311,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-17,388,men's clothing,55.99,1
+3,Mens Cotton Jacket,2025-07-18,384,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-19,384,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-20,384,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-21,380,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-22,377,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-23,376,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-24,420,men's clothing,55.99,1
+3,Mens Cotton Jacket,2025-07-25,416,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-26,414,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-27,410,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-28,408,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-29,404,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-30,404,men's clothing,55.99,0
+3,Mens Cotton Jacket,2025-07-31,464,men's clothing,55.99,1
+3,Mens Cotton Jacket,2025-08-01,461,men's clothing,55.99,0
+4,Mens Casual Slim Fit,2025-07-03,228,men's clothing,15.99,1
+4,Mens Casual Slim Fit,2025-07-04,227,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-05,226,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-06,225,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-07,224,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-08,223,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-09,223,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-10,295,men's clothing,15.99,1
+4,Mens Casual Slim Fit,2025-07-11,295,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-12,294,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-13,294,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-14,293,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-15,292,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-16,292,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-17,379,men's clothing,15.99,1
+4,Mens Casual Slim Fit,2025-07-18,378,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-19,378,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-20,378,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-21,377,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-22,376,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-23,375,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-24,419,men's clothing,15.99,1
+4,Mens Casual Slim Fit,2025-07-25,418,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-26,417,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-27,416,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-28,416,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-29,416,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-30,416,men's clothing,15.99,0
+4,Mens Casual Slim Fit,2025-07-31,495,men's clothing,15.99,1
+4,Mens Casual Slim Fit,2025-08-01,494,men's clothing,15.99,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-03,218,jewelery,695.0,1
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-04,217,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-05,212,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-06,208,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-07,201,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-08,197,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-09,190,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-10,262,jewelery,695.0,1
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-11,260,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-12,252,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-13,246,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-14,239,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-15,237,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-16,236,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-17,305,jewelery,695.0,1
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-18,299,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-19,294,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-20,290,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-21,289,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-22,285,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-23,284,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-24,381,jewelery,695.0,1
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-25,380,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-26,380,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-27,380,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-28,374,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-29,374,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-30,369,jewelery,695.0,0
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-07-31,440,jewelery,695.0,1
+5,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,2025-08-01,433,jewelery,695.0,0
+6,Solid Gold Petite Micropave ,2025-07-03,93,jewelery,168.0,1
+6,Solid Gold Petite Micropave ,2025-07-04,89,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-05,89,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-06,87,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-07,77,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-08,70,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-09,65,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-10,120,jewelery,168.0,1
+6,Solid Gold Petite Micropave ,2025-07-11,111,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-12,110,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-13,102,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-14,101,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-15,94,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-16,88,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-17,181,jewelery,168.0,1
+6,Solid Gold Petite Micropave ,2025-07-18,176,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-19,171,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-20,170,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-21,161,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-22,161,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-23,155,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-24,190,jewelery,168.0,1
+6,Solid Gold Petite Micropave ,2025-07-25,185,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-26,182,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-27,180,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-28,173,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-29,167,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-30,166,jewelery,168.0,0
+6,Solid Gold Petite Micropave ,2025-07-31,190,jewelery,168.0,1
+6,Solid Gold Petite Micropave ,2025-08-01,185,jewelery,168.0,0
+7,White Gold Plated Princess,2025-07-03,147,jewelery,9.99,1
+7,White Gold Plated Princess,2025-07-04,139,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-05,130,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-06,128,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-07,121,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-08,115,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-09,115,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-10,172,jewelery,9.99,1
+7,White Gold Plated Princess,2025-07-11,166,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-12,161,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-13,159,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-14,157,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-15,156,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-16,153,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-17,184,jewelery,9.99,1
+7,White Gold Plated Princess,2025-07-18,182,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-19,175,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-20,166,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-21,158,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-22,151,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-23,141,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-24,216,jewelery,9.99,1
+7,White Gold Plated Princess,2025-07-25,216,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-26,209,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-27,208,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-28,207,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-29,204,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-30,200,jewelery,9.99,0
+7,White Gold Plated Princess,2025-07-31,225,jewelery,9.99,1
+7,White Gold Plated Princess,2025-08-01,224,jewelery,9.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-03,126,jewelery,10.99,1
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-04,125,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-05,123,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-06,123,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-07,121,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-08,120,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-09,120,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-10,198,jewelery,10.99,1
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-11,198,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-12,196,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-13,196,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-14,196,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-15,194,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-16,192,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-17,223,jewelery,10.99,1
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-18,223,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-19,223,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-20,223,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-21,222,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-22,220,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-23,219,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-24,277,jewelery,10.99,1
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-25,277,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-26,275,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-27,275,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-28,274,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-29,272,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-30,270,jewelery,10.99,0
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-07-31,368,jewelery,10.99,1
+8,Pierced Owl Rose Gold Plated Stainless Steel Double,2025-08-01,367,jewelery,10.99,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-03,191,electronics,64.0,1
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-04,182,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-05,181,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-06,175,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-07,171,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-08,170,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-09,163,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-10,194,electronics,64.0,1
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-11,193,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-12,193,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-13,188,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-14,181,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-15,175,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-16,167,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-17,256,electronics,64.0,1
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-18,250,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-19,248,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-20,245,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-21,236,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-22,230,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-23,225,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-24,268,electronics,64.0,1
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-25,267,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-26,262,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-27,260,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-28,253,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-29,246,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-30,245,electronics,64.0,0
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-07-31,295,electronics,64.0,1
+9,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,2025-08-01,293,electronics,64.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-03,81,electronics,109.0,1
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-04,77,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-05,72,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-06,66,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-07,66,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-08,64,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-09,62,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-10,150,electronics,109.0,1
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-11,144,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-12,141,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-13,139,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-14,138,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-15,135,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-16,131,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-17,170,electronics,109.0,1
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-18,166,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-19,162,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-20,160,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-21,156,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-22,154,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-23,152,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-24,246,electronics,109.0,1
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-25,244,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-26,239,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-27,235,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-28,233,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-29,229,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-30,226,electronics,109.0,0
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-07-31,299,electronics,109.0,1
+10,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,2025-08-01,297,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-03,181,electronics,109.0,1
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-04,180,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-05,180,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-06,180,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-07,180,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-08,180,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-09,179,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-10,246,electronics,109.0,1
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-11,245,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-12,244,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-13,243,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-14,242,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-15,241,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-16,240,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-17,289,electronics,109.0,1
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-18,288,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-19,287,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-20,287,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-21,286,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-22,285,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-23,285,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-24,343,electronics,109.0,1
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-25,342,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-26,342,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-27,342,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-28,342,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-29,342,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-30,341,electronics,109.0,0
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-07-31,403,electronics,109.0,1
+11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,2025-08-01,402,electronics,109.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-03,109,electronics,114.0,1
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-04,106,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-05,105,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-06,105,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-07,99,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-08,95,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-09,93,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-10,128,electronics,114.0,1
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-11,123,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-12,118,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-13,115,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-14,110,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-15,104,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-16,100,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-17,139,electronics,114.0,1
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-18,136,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-19,135,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-20,133,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-21,131,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-22,128,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-23,126,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-24,186,electronics,114.0,1
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-25,186,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-26,186,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-27,185,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-28,181,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-29,181,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-30,176,electronics,114.0,0
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-07-31,251,electronics,114.0,1
+12,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,2025-08-01,249,electronics,114.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-03,177,electronics,599.0,1
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-04,172,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-05,172,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-06,171,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-07,168,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-08,163,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-09,159,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-10,252,electronics,599.0,1
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-11,252,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-12,246,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-13,242,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-14,242,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-15,236,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-16,235,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-17,299,electronics,599.0,1
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-18,293,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-19,288,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-20,288,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-21,285,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-22,279,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-23,277,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-24,328,electronics,599.0,1
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-25,324,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-26,321,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-27,320,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-28,320,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-29,315,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-30,312,electronics,599.0,0
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-07-31,391,electronics,599.0,1
+13,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,2025-08-01,386,electronics,599.0,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-03,224,electronics,999.99,1
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-04,223,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-05,223,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-06,223,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-07,223,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-08,222,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-09,221,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-10,269,electronics,999.99,1
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-11,268,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-12,267,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-13,266,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-14,265,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-15,265,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-16,264,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-17,311,electronics,999.99,1
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-18,311,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-19,311,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-20,310,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-21,309,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-22,309,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-23,309,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-24,409,electronics,999.99,1
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-25,409,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-26,408,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-27,407,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-28,407,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-29,407,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-30,406,electronics,999.99,0
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-07-31,476,electronics,999.99,1
+14,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,2025-08-01,476,electronics,999.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-03,220,women's clothing,56.99,1
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-04,219,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-05,219,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-06,218,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-07,215,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-08,208,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-09,208,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-10,241,women's clothing,56.99,1
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-11,238,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-12,237,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-13,231,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-14,226,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-15,226,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-16,222,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-17,252,women's clothing,56.99,1
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-18,247,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-19,242,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-20,239,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-21,239,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-22,232,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-23,228,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-24,323,women's clothing,56.99,1
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-25,318,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-26,313,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-27,311,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-28,305,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-29,300,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-30,294,women's clothing,56.99,0
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-07-31,343,women's clothing,56.99,1
+15,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,2025-08-01,341,women's clothing,56.99,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-03,195,women's clothing,29.95,1
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-04,195,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-05,194,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-06,191,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-07,191,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-08,189,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-09,189,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-10,250,women's clothing,29.95,1
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-11,249,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-12,247,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-13,246,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-14,245,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-15,244,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-16,244,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-17,322,women's clothing,29.95,1
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-18,320,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-19,319,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-20,319,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-21,317,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-22,317,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-23,317,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-24,347,women's clothing,29.95,1
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-25,346,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-26,344,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-27,343,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-28,342,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-29,340,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-30,339,women's clothing,29.95,0
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-07-31,401,women's clothing,29.95,1
+16,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,2025-08-01,399,women's clothing,29.95,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-03,178,women's clothing,39.99,1
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-04,176,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-05,173,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-06,172,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-07,172,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-08,170,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-09,168,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-10,232,women's clothing,39.99,1
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-11,232,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-12,230,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-13,227,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-14,225,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-15,222,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-16,222,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-17,308,women's clothing,39.99,1
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-18,308,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-19,307,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-20,304,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-21,304,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-22,303,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-23,301,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-24,357,women's clothing,39.99,1
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-25,357,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-26,357,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-27,354,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-28,354,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-29,352,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-30,349,women's clothing,39.99,0
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-07-31,442,women's clothing,39.99,1
+17,Rain Jacket Women Windbreaker Striped Climbing Raincoats,2025-08-01,442,women's clothing,39.99,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-03,184,women's clothing,9.85,1
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-04,184,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-05,184,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-06,182,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-07,181,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-08,179,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-09,177,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-10,218,women's clothing,9.85,1
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-11,218,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-12,217,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-13,216,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-14,215,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-15,214,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-16,214,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-17,258,women's clothing,9.85,1
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-18,258,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-19,256,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-20,256,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-21,255,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-22,253,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-23,253,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-24,309,women's clothing,9.85,1
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-25,308,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-26,307,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-27,306,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-28,304,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-29,302,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-30,300,women's clothing,9.85,0
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-07-31,350,women's clothing,9.85,1
+18,MBJ Women's Solid Short Sleeve Boat Neck V ,2025-08-01,349,women's clothing,9.85,0
+19,Opna Women's Short Sleeve Moisture,2025-07-03,186,women's clothing,7.95,1
+19,Opna Women's Short Sleeve Moisture,2025-07-04,185,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-05,184,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-06,183,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-07,183,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-08,183,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-09,182,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-10,212,women's clothing,7.95,1
+19,Opna Women's Short Sleeve Moisture,2025-07-11,212,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-12,212,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-13,211,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-14,211,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-15,210,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-16,209,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-17,244,women's clothing,7.95,1
+19,Opna Women's Short Sleeve Moisture,2025-07-18,244,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-19,243,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-20,242,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-21,241,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-22,240,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-23,239,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-24,278,women's clothing,7.95,1
+19,Opna Women's Short Sleeve Moisture,2025-07-25,277,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-26,277,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-27,277,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-28,277,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-29,277,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-30,277,women's clothing,7.95,0
+19,Opna Women's Short Sleeve Moisture,2025-07-31,337,women's clothing,7.95,1
+19,Opna Women's Short Sleeve Moisture,2025-08-01,337,women's clothing,7.95,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-03,118,women's clothing,12.99,1
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-04,115,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-05,111,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-06,108,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-07,107,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-08,104,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-09,103,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-10,197,women's clothing,12.99,1
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-11,195,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-12,193,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-13,192,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-14,189,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-15,187,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-16,186,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-17,245,women's clothing,12.99,1
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-18,244,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-19,241,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-20,238,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-21,235,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-22,234,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-23,234,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-24,274,women's clothing,12.99,1
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-25,274,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-26,273,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-27,273,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-28,271,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-29,270,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-30,269,women's clothing,12.99,0
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-07-31,314,women's clothing,12.99,1
+20,DANVOUY Womens T Shirt Casual Cotton Short,2025-08-01,310,women's clothing,12.99,0
